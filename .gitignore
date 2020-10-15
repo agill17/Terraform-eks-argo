@@ -1,0 +1,5 @@
+.terraform/
+.git/
+*.tfstate
+terraform.tfstate*
+.terraform-version
